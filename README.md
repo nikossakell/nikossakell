@@ -8,4 +8,4 @@ Hello everyone my name is Nikos Sakellaris or Atai (nickname).
   - Graphic Design tools
   - Game Delepoment
 - :calling: How to reach me: 
-  [I'm an inline-style link with title](https://www.linkedin.com/in/nikos-sakellaris-b2b3a6223/ "LinkedIn Profile")
+  [LinkedIn Profile](https://www.linkedin.com/in/nikos-sakellaris-b2b3a6223/ "LinkedIn Profile")
