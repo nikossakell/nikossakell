@@ -3,7 +3,7 @@
 Hello everyone my name is Nikos Sakellaris or Atai. 
 
 - :books: I’m currently studying Applied Informatics
-- :paperclip: Interested in (online) courses related to:
+- :memo: Interested in (online) courses related to:
   - UI/UX Design
   - Graphic Design tools
   - Game Delepoment
