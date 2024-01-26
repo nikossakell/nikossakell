@@ -12,6 +12,16 @@ Hello everyone my name is Nikos Sakellaris (aka Atai).
   [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nikos-sakell/)
   [![My Skills](https://skillicons.dev/icons?i=gmail)](nikossakell02@gmail.com)
 
+## Achievements
+
+#### School Projects
+
+  ##### 🥇 "Best Software Project" award for the academic year 2022-2023 in Android Development
+    Referred repository: Physio-plus-org
+
+  ##### 🥇 1st prize for the design of the CTL, UoM logo
+    [CTL UoM Official Website](https://ctl.uom.gr/)
+
 ## Skills
 #### Graphic Design
 
