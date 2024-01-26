@@ -10,3 +10,5 @@ Hello everyone my name is Nikos Sakellaris (aka Atai).
 - 📫 How to contact me: 
   [LinkedIn](https://www.linkedin.com/in/nikos-sakellaris-b2b3a6223/ "LinkedIn Profile")
   [Email](nikossakell02@gmail.com)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
