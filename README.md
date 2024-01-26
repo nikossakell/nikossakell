@@ -11,4 +11,10 @@ Hello everyone my name is Nikos Sakellaris (aka Atai).
   [LinkedIn](https://www.linkedin.com/in/nikos-sakellaris-b2b3a6223/ "LinkedIn Profile")
   [Email](nikossakell02@gmail.com)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,java)](https://skillicons.dev)
+## Web Development
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
+
+## Software Development
+
+[![My Skills](https://skillicons.dev/icons?i=java,c,eclipse)](https://skillicons.dev)
