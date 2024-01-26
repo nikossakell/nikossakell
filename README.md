@@ -7,18 +7,20 @@ Hello everyone my name is Nikos Sakellaris (aka Atai).
   - UI/UX Design
   - Front-end Development
   - Web Development 
-- 📫 How to contact me: 
+- 📫 How to contact me:
+  [![My Skills](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/nikos-sakellaris-b2b3a6223/ "LinkedIn Profile"))
   [LinkedIn](https://www.linkedin.com/in/nikos-sakellaris-b2b3a6223/ "LinkedIn Profile")
+  [![My Skills](https://skillicons.dev/icons?i=gmail)]([https://skillicons.dev](nikossakell02@gmail.com))
   [Email](nikossakell02@gmail.com)
 
 ### Graphic Design
 
-[![My Skills](https://skillicons.dev/icons?i=ps,xd)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=ps,xd)](https://skillicons.dev)
 
 ### Web Development
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
 
 ### Software Development
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,eclipse)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,c,eclipse)](https://skillicons.dev)
