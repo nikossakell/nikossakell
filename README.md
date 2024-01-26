@@ -10,7 +10,7 @@ Hello everyone my name is Nikos Sakellaris (aka Atai).
 - 📫 How to contact me:
 
   [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nikos-sakell/)
-  [![My Skills](https://skillicons.dev/icons?i=linkedin)](nikossakell02@gmail.com)
+  [![My Skills](https://skillicons.dev/icons?i=gmail)](nikossakell02@gmail.com)
 
 ## Skills
 #### Graphic Design
