@@ -33,4 +33,3 @@ Hello everyone my name is Nikos Sakellaris (aka Atai).
 
   [![My Skills](https://skillicons.dev/icons?i=java,c,eclipse,androidstudio)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=NikosSakell&layout=compact)](https://github-readme-stats.vercel.app/)
