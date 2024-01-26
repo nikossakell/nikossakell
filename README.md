@@ -10,7 +10,7 @@ Hello everyone my name is Nikos Sakellaris (aka Atai).
 - 📫 How to contact me:
 
   [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nikos-sakell/)
-  [![My Skills](https://skillicons.dev/icons?i=gmail)](nikossakell02@gmail.com)
+  [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:nikossakell02@gmail.com)
 
 ## Achievements
 
@@ -32,3 +32,5 @@ Hello everyone my name is Nikos Sakellaris (aka Atai).
 #### Software Development
 
   [![My Skills](https://skillicons.dev/icons?i=java,c,eclipse,androidstudio)](https://skillicons.dev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=NikosSakell&layout=compact)](https://github-readme-stats.vercel.app/)
