@@ -1,4 +1,4 @@
-### Hello there 👋
+## Hello there 👋
 
 Hello everyone my name is Nikos Sakellaris (aka Atai). 
 
@@ -11,14 +11,14 @@ Hello everyone my name is Nikos Sakellaris (aka Atai).
   [LinkedIn](https://www.linkedin.com/in/nikos-sakellaris-b2b3a6223/ "LinkedIn Profile")
   [Email](nikossakell02@gmail.com)
 
-## Graphic Design
+### Graphic Design
 
 [![My Skills](https://skillicons.dev/icons?i=ps,xd)](https://skillicons.dev)
 
-## Web Development
+### Web Development
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
 
-## Software Development
+### Software Development
 
 [![My Skills](https://skillicons.dev/icons?i=java,c,eclipse)](https://skillicons.dev)
