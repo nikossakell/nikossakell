@@ -8,9 +8,8 @@ Hello everyone my name is Nikos Sakellaris (aka Atai).
   - Front-end Development
   - Web Development 
 - 📫 How to contact me:
-  [![My Skills](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/nikos-sakellaris-b2b3a6223/ "LinkedIn Profile"))
- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nikos-sakellaris-b2b3a6223/ "LinkedIn Profile")
-  [Email](nikossakell02@gmail.com)
+
+  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nikos-sakell/)
 
 ### Graphic Design
 
