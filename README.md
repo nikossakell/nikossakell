@@ -31,4 +31,4 @@ Hello everyone my name is Nikos Sakellaris (aka Atai).
 
 #### Software Development
 
-  [![My Skills](https://skillicons.dev/icons?i=java,c,eclipse)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,c,eclipse,androidstudio)](https://skillicons.dev)
