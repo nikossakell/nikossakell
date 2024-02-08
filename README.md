@@ -3,11 +3,11 @@
 My name is Nikos Sakellaris (aka Atai). 
 
 - :books: Majoring Applied Informatics (Computer Science) at University of Macedonia
-  🧑‍💻 Interested in internship opportunities related to:
+- 🧑‍💻 Interested in internship opportunities related to:
     UI/UX Design
     Front-end Development
     Web Development 
-  📫 How to contact me:
+- 📫 How to contact me:
 
   [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nikos-sakell/)
   [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:nikossakell02@gmail.com)
