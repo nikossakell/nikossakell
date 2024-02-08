@@ -7,7 +7,7 @@ My name is Nikos Sakellaris (aka Atai).
     UI/UX Design
     Front-end Development
     Web Development 
-- 📫 How to contact me:
+- 📫 Contact me:
 
   [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nikos-sakell/)
   [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:nikossakell02@gmail.com)
