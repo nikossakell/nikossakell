@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-My name is Nikos Sakellaris (aka Atai). 
+My name is Nikos Sakellaris.
 
 - :books: Majoring Applied Informatics (Computer Science) at University of Macedonia
 - 🧑‍💻 Interested in internship opportunities related to:
