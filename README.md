@@ -9,7 +9,7 @@ My name is Nikos Sakellaris.
 - 📫 Contact me:
 
   [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nikos-sakell/)
-  [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:nikossakell02@gmail.com)
+  [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:sakellarnikos@gmail.com)
 
 ## 🥇 Achievements
 
