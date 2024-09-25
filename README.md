@@ -5,7 +5,7 @@ My name is Nikos Sakellaris.
 - :books: Majoring Applied Informatics (Computer Science) at University of Macedonia
 - 🧑‍💻 Interested in internship opportunities related to:
     Front-end Development,
-    Web Development 
+    Web Development or Software Engineering
 - 📫 Contact me:
 
   [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nikos-sakell/)
