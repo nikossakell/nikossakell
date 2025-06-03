@@ -18,13 +18,10 @@ My name is Nikos Sakellaris.
   [CTL UoM Official Website](https://ctl.uom.gr/)
 
 ## 🦾 Skills
-- #### Graphic Design
-
-  [![My Skills](https://skillicons.dev/icons?i=ps,xd)](https://skillicons.dev)
 
 - #### Web Development
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,typescript)](https://skillicons.dev)
 
 - #### Software Development
 
