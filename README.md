@@ -1,4 +1,4 @@
-### What are you even doing in my profile? 
+## What are you even doing in my profile? 
 ### How did you end up here... Anyways, since you are reading this here's some info about me 👋
 
 My name is Nikos Sakellaris.
