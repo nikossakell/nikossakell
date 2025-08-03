@@ -5,10 +5,7 @@ My name is Nikos Sakellaris.
 
 - :books: Bsc Applied Informatics (Computer Science) University of Macedonia
 - 🧑‍💻 Junior Frontend Developer
-- 📫 Contact me:
-
-  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nikos-sakell/)
-  [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:sakellarnikos@gmail.com)
+- 📫 Contact me: sakellarnikos@gmail.com
 
 ## 🥇 Achievements
 
