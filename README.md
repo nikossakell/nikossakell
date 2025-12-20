@@ -1,13 +1,14 @@
 ## What are you even doing in my page? 
-### Anyways, since you are reading this here's some info about me 👋
+### Anyways, since you are reading this here's some info about me...
 
-I am Atai (aka Nikos Sakellaris).
+I'm Atai (aka Nikos Sakellaris).
 
-- :books: Bsc Applied Informatics (Computer Science) University of Macedonia
-- 🧑‍💻 Junior Frontend Developer
+- 🎓 BSc Applied Informatics
+- ⏳ MSc Software Development & Cloud
+- 💻 Junior Frontend Developer
 - 📫 Contact me: sakellarnikos@gmail.com
 
-🥇 Achievements
+⚙️ Projects
 
 - "Best Software Project" award for the academic year 2022-2023 in Android Development
   Referred repository: Physio-plus-org
@@ -15,13 +16,4 @@ I am Atai (aka Nikos Sakellaris).
 - 1st prize for the design of the CTL, UoM logo
   [CTL UoM Official Website](https://ctl.uom.gr/)
 
-🦾 Skills
-
-- Web Development
-
-  [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,typescript)](https://skillicons.dev)
-
-- Software Development
-
-  [![My Skills](https://skillicons.dev/icons?i=java,c,eclipse,androidstudio)](https://skillicons.dev)
-
+- Development of [irorax.gr](https://irorax.gr/) a physiotherapy advisor LLM powered chatbot
