@@ -5,7 +5,7 @@ I'm Atai (aka Nikos Sakellaris).
 
 - 🎓 BSc Applied Informatics
 - ⏳ MSc Software Development & Cloud
-- 💻 Junior Frontend Developer
+- 💻 Frontend Developer
 - 📫 Contact me: sakellarnikos@gmail.com
 
 ⚙️ Projects
